@@ -1,0 +1,32 @@
+body{
+	background: #888888;
+	color: black;
+	max-width: 1024px;
+	margin: 0px auto;
+}
+header{
+	background: blue;
+	border-radius: 5px;
+	color: white;
+	padding-top: 5px;
+	text-align: center;
+}
+header img{
+	width: 100px;
+}
+
+header nav ul li{
+	background: orange;
+	color: black;
+	display: inline-block;
+	margin-right: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	width: 118px;
+	box-shadow: 5px 5px black;
+}
+
+header nav ul li:hover{
+	background: black;
+	color: orange;
+}
