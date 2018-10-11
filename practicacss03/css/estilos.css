@@ -1,0 +1,26 @@
+header{
+	margin:0;
+	height: 140px;
+	background: white;
+	padding: 0;
+}
+
+header input{
+	float: left;
+	display: inline-block;
+	position:relative;
+	margin-top: 30px;
+	
+}
+
+header img{
+	display: inline-block;
+	padding-left: 50px;
+	width: 1000px;
+	height: 50px;
+}
+
+body{
+	background: gray;
+}
+
