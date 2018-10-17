@@ -1,0 +1,15 @@
+header{
+
+}
+#logo{
+	width: 130px;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+
+header nav ul li{
+display: inline-block;
+}
+body{
+margin: 0px auto;
+}
