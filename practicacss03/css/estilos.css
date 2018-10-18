@@ -23,4 +23,25 @@ header img{
 body{
 	background: gray;
 }
+#primerseccion{
+	width: 15%;
+	display: inline-block;
+}
 
+
+#primerseccionul li{
+	padding-bottom: 5px;
+}
+
+#primerseccion img{
+	width: 100%;
+}
+
+#segundaseccion article{
+	display: inline-block;
+}
+
+.rectangulo{
+	width: 23.3%;
+	height: 300px;
+}

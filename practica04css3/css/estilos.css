@@ -1,15 +1,56 @@
-header{
 
+header nav ul li{
+display: inline-block;
+padding-top: 20px;
+padding-right: 10px;
 }
+
+body{
+margin: 0px auto;
+}
+
 #logo{
 	width: 130px;
 	padding-top: 20px;
 	padding-left: 10px;
 }
 
-header nav ul li{
-display: inline-block;
+#logorojo{
+    position: relative;
+	top: -180px;
+	left: 1200px;
+	height: 30px;
+	width: 30px;
 }
-body{
-margin: 0px auto;
+#bandera{
+    position: relative;
+	top: -180px;
+	left: 1203px;
+	height: 30px;
+	width: 30px;
+}
+#mundo{
+    position: relative;
+	top: -180px;
+	left: 1206px;
+	height: 30px;
+	width: 30px;
+}
+
+#gotoshop{
+    position: relative;
+	top: -95px;
+	left: 890px;
+	height: 90px;
+	width: 220px;
+}
+
+#buy{
+    position: relative;
+	top: -30px;
+	left: 600px;
+}
+
+li{
+	font-style: bold;
 }
