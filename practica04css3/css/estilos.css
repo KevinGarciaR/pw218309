@@ -3,12 +3,28 @@ header nav ul li{
 display: inline-block;
 padding-top: 20px;
 padding-right: 10px;
+font-weight: bold;
+}
+
+header{
+	border-bottom-style: dashed;
+	border-width: 1px;
 }
 
 body{
 margin: 0px auto;
 }
 
+#centro01{
+border-bottom-style: dashed;
+	border-width: 1px;
+width: 650px;
+}
+
+#textoart01{
+
+width: 650px;
+}
 #logo{
 	width: 130px;
 	padding-top: 20px;
@@ -49,6 +65,27 @@ margin: 0px auto;
     position: relative;
 	top: -30px;
 	left: 600px;
+}
+
+#video01{
+width: 300px;
+height: 200px;
+}
+
+#video02{
+width: 300px;
+height: 200px;
+}
+
+#imagenesart01{
+width: 500px;
+}
+.blacknito{
+font-size: 80px;
+}
+.greennito{
+font-size: 80px;
+color: rgb(0, 182, 0);
 }
 
 li{
