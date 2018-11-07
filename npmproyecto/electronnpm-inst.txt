@@ -1,0 +1,4 @@
+npm install electron --save-dev
+npm install electron-packager --save-dev
+npm install electron-require --save-dev
+rm -rf node_modules

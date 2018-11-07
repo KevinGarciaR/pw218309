@@ -1,0 +1,23 @@
+{
+  "name": "primerpyoecto",
+  "version": "0.0.0",
+  "description": "Aprender a instalar paquetes de Node y proyectos",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Inicio",
+    "node",
+    "npm",
+    "pw",
+    "rc"
+  ],
+  "author": "Kevin Jesus Garcia Rios",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.8",
+    "electron-packager": "^12.2.0",
+    "electron-require": "^0.3.0"
+  }
+}
