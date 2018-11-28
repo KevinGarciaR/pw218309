@@ -1,3 +1,5 @@
+
+// PRUEBA
 //cargar la aplicación de electron
 const app=require('electron').app;
 //Crear ventanas del sistema operativo

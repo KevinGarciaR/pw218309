@@ -1,0 +1,30 @@
+{
+  "name": "randomuserelectron",
+  "version": "1.0.0",
+  "description": "Electron Users",
+  "main": "main.js",
+  "dependencies": {
+    "asar": "^0.14.5",
+    "electron": "^3.0.9",
+    "electron-package": "^0.1.0",
+    "electron-require": "^0.3.0"
+  },
+  "devDependencies": {
+    "asar": "^0.14.5",
+    "electron": "^3.0.9",
+    "electron-package": "^0.1.0",
+    "electron-require": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "electron .",
+    "pack" : "electron-packager . Random --overwrite --asar"
+  },
+  "keywords": [
+    "Electron",
+    "Users",
+    "Random"
+  ],
+  "author": "Kevin Jesus Garcia riOS",
+  "license": "MIT"
+}
